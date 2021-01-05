@@ -22,7 +22,7 @@
   },
   "homepage": "https://halo.run",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "core-js": "^2.6.8",
     "marked": "^0.6.2",
     "md5": "^2.2.1",
